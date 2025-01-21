@@ -3,7 +3,7 @@
 ### Introduction
 Deep learning models, particularly convolutional neural networks (CNNs), have transformed image classification tasks by effectively extracting hierarchical features. However, to train these models successfully, it is crucial to monitor the process carefully to prevent overtraining and ensure good generalization. Overtraining happens when the model memorizes the training data rather than learning general patterns, resulting in poor performance on unseen data.
 
-In this paper, we fine-tuned a pre-trained VGG16 model to classify images of cats, dogs, and snakes. The dataset was divided into training, validation, and test sets, and we evaluated the model's ability to generalize across these groups.
+In this paper, i fine-tuned a pre-trained VGG16 model to classify images of cats, dogs, and snakes. The dataset was divided into training, validation, and test sets, and i evaluated the model's ability to generalize across these groups.
 This study explores scenarios that lead to overtraining, techniques to mitigate it, and the performance of the model for each class. The goal is to provide recommendations for enhancing the model's effectiveness. By analyzing training metrics and classification results, this paper offers valuable insights into effective practices in deep learning.
 
 ### Problem Statement
