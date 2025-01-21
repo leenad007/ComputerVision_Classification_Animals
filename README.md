@@ -54,6 +54,9 @@ This paper analyzed overtraining and model performance for image classification 
 ________________________________________
 ### References
 •	Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
+
 •	Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556.
+
 •	Geron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd ed.). O'Reilly Media.
+
 •	Howard, J., & Gugger, S. (2020). Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD. O'Reilly Media.
